@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/testimonials-grid-section-KeGPpWAw5N
+- Live Site URL: https://mrantikadev.github.io/testimonials-grid-section-main/
 
 ## My process
 
@@ -42,9 +42,9 @@ This was my first project where i used Grid.
 
 ### Useful resources
 
-- [MDN's Grid doc](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) - This helped me for using Grid properely reason.
+- [MDN's Grid doc](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) - This helped me for using Grid properely.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mrantika0](https://www.frontendmentor.io/profile/mrantika0)
 - Twitter - [@mrantika0](https://twitter.com/mrantika0)
